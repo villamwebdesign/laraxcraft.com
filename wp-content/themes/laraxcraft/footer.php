@@ -11,7 +11,7 @@
     <p class="text-center">
 			<?php printf( __( 'Proudly powered by %s', 'istore' ), '<a href="' . esc_url( __( 'https://wordpress.org/', 'istore' ) ) . '">WordPress</a>' ); ?>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s', 'istore' ), '<a href="http://villamwebdesign.xyz" title="' . esc_attr__( 'Free WooCommerce WordPress Theme', 'istore' ) . '">Laraxcraft</a>', 'villamwebdesign.xyz' ); ?>
+			<?php printf( __( 'Theme: %1$s by %2$s', 'istore' ), '<a href="http://villamwebdesign.xyz" title="' . esc_attr__( 'Free WooCommerce WordPress Theme', 'istore' ) . '">Laraxcraft </a>', 'villamwebdesign.xyz' ); ?>
 		</p>                
   </div>    
 </footer>
