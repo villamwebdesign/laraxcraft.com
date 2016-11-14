@@ -90,3 +90,7 @@ btn-info:hover, .btn-info:focus, .btn-info.focus, .btn-info:active, .btn-info.ac
 .add-to-wishlist-custom a:hover {
     color: #ffffff;
 } 
+/*Custom*/#polylang-2 li {
+    list-style-type: none; margin: 0 auto; position:relative; left:-10px; padding:10px 0px;} #polylang-2{border:1px solid #d3d3d3; text-align:left; padding: 5px 0px;}#polylang-2 li:hover{background-color: #ffe496; transition: background 0.5s ease;}
+    .widget_polylang li {
+    list-style-type: none; margin: 0 auto; position:relative; left:-10px; padding:10px 0px;} .widget_polylang{border:1px solid #d3d3d3; text-align:left; padding: 5px 0px;}.widget_polylang li:hover{background-color: #ffe496; transition: background 0.5s ease;}
