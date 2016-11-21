@@ -70,5 +70,5 @@ add_action( 'customize_register', 'istore_custom_remove', 100);
 if ( is_admin() ) {
 	include_once(trailingslashit( get_template_directory() ) . 'lib/welcome/welcome-screen.php');
 }
-
+wp_enqueue_style( 'animation-css', get_template_directory_uri() . '/css/animate.css',false,'1.1','all');
 
